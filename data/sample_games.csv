@@ -1,0 +1,4 @@
+date,home_team,away_team,home_score,away_score,home_start_era,away_start_era,home_recent_winrate,away_recent_winrate,home_field_factor
+2024-04-01,Hanshin,Yomiuri,3,2,2.45,3.10,0.6,0.45,1.02
+2024-04-02,Softbank,Seibu,5,1,1.90,4.00,0.7,0.3,1.10
+2024-04-03,DeNA,Chunichi,2,4,3.50,2.95,0.4,0.55,0.98
